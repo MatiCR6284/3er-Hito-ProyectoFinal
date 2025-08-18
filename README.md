@@ -46,3 +46,6 @@ The backend is built with Node and Express, connected to a PostgreSQL database.
 
 ![Preview](./frontend/src/assets/img/preview.png)
 
+!
+!
+!
