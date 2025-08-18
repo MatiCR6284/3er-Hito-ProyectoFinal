@@ -1,48 +1,43 @@
-# Travel Agency - Online Booking Platform
+# Agencia de Viajes - Plataforma de Reservas Online
 
-A web application that simulates an online travel agency where users can purchase all-inclusive travel packages and share their travel experiences with the community.
+Una aplicación web que simula una agencia de viajes online donde los usuarios pueden comprar paquetes turísticos todo incluido y compartir sus experiencias de viaje con la comunidad.
 
-**Team Contributors**:
+**Colaboradores del equipo**:
 
-This project was developed as a group project with:
+Este proyecto fue desarrollado en grupo con:
 
 - [ralunsebastian](https://github.com/ralunsebastian)
 - [MatiCR6284](https://github.com/MatiCR6284)
+- [Micolia](https://github.com/Micolia)
 
+## 🌍 Funcionalidades Principales
 
+### 👥 Usuarios Invitados
+- Página de inicio
+- Página de paquetes turísticos con vistas previas y detalles
 
-## 🌍 Main Features
+### 🔑 Usuarios Registrados
+- Página de comunidad para compartir experiencias de viaje
+- Carrito de compras con proceso de pago
+- Posibilidad de reservar paquetes turísticos
+- Página "Mis Viajes" para ver y gestionar reservas
 
-### 👥 Guest Users
-- Home page
-- Travel packages page with previews and details
-
-### 🔑 Logged-in Users
-- Community page to share travel experiences
-- Shopping cart with checkout
-- Ability to book travel packages
-- Page "My Trips" to see and manage reservations
-
-### 🛠️ Admin
-- Dedicated admin access
-- Ability to create new packages
-
+### 🛠️ Administrador
+- Acceso dedicado para administradores
+- Posibilidad de crear nuevos paquetes
 
 ## 🖥️ Frontend
 
-Built with React
-
+Desarrollado con React
 
 ## ⚙️ Backend
 
-The backend is built with Node and Express, connected to a PostgreSQL database.  
+El backend está construido con Node y Express, conectado a una base de datos PostgreSQL.
 
-- Cart checkout
-- User registration
-- Community post creation
-- Admin package creation
-
-## Preview
+- Proceso de pago del carrito
+- Registro de usuarios
+- Creación de publicaciones en la comunidad
+- Creación de paquetes por parte del
 
 ![Preview](./frontend/src/assets/img/preview.png)
 
